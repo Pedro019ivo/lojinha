@@ -48,7 +48,7 @@ function buyProduct(productName, sizeElementId) {
     const size = selectedSize ? selectedSize.value : 'P';
     
     // Your WhatsApp number (replace with your number: 55 + DDD + number)
-    const whatsappNumber = '55XXXXXXXXXX';
+    const whatsappNumber = '55019995996703';
     
     // Message to send
     const message = `Olá! Gostaria de comprar: *${productName}* - Tamanho: *${size}*`;
